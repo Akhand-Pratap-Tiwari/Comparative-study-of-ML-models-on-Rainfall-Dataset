@@ -52,3 +52,6 @@ This dataset contains observations of weather metrics for each day from 2008 to 
 
 Column definitions were gathered from [http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml](http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkML0101ENSkillsNetwork20718538-2022-01-01)
 
+The output and conclusions are as follows:
+
+![image](https://github.com/user-attachments/assets/b5f1541a-f118-41a3-a8c8-4686f2acea6f)
